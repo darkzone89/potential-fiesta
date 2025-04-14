@@ -5,8 +5,8 @@
 | ✅     | **March 14–16, 2025**        | F1 Australian Grand Prix                | Melbourne, Australia                       |
 | ✅     | **March 20–23, 2025**        | WRC Safari Rally Kenya                  | Kenya                                      |
 | ✅     | **March 21–23, 2025**        | F1 Chinese Grand Prix                   | Shanghai, China                            |
-|        | **April 4–6, 2025**          | F1 Japanese Grand Prix                  | Suzuka, Japan                              |
-|        | **April 11–13, 2025**        | F1 Bahrain Grand Prix                   | Sakhir, Bahrain                            |
+| ✅     | **April 4–6, 2025**          | F1 Japanese Grand Prix                  | Suzuka, Japan                              |
+| ✅     | **April 11–13, 2025**        | F1 Bahrain Grand Prix                   | Sakhir, Bahrain                            |
 |        | **April 18–20, 2025**        | F1 Saudi Arabian Grand Prix             | Jeddah, Saudi Arabia                       |
 |        | **April 24–27, 2025**        | WRC Rally Islas Canarias                | Spain                                      |
 |        | **May 2–4, 2025**            | F1 Miami Grand Prix                     | Miami, USA                                 |
